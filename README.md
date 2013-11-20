@@ -1,4 +1,4 @@
-# PHP Tools for Jenkins Jobs Template for PHP Projects
+# Jenkins Jobs Template PHP Tools
 
 This is a meta package for [Composer](http://getcomposer.org/) that provides the [PHP Quality Assurance Toolchain](http://phpqatools.org/) tools needed for the [Template for Jenkins Jobs for PHP Projects](http://jenkins-php.org/). It provides the following packages:
 
