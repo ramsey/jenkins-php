@@ -14,6 +14,7 @@
         "bin-dir": "bin"
     },
     "require": {
+        "mayflower/php-codebrowser": "~1.0",
         "pdepend/pdepend": "~1.1",
         "phpdocumentor/phpdocumentor": "~2.1",
         "phploc/phploc": "~2.0",
