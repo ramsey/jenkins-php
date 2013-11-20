@@ -5,6 +5,7 @@ This is a meta package for [Composer](http://getcomposer.org/) that provides the
 * [PHPUnit](http://phpunit.de/)
 * [phpDocumentor](http://phpdoc.org/)
 * [PHP_CodeSniffer](http://www.squizlabs.com/php-codesniffer)
+* [PHP_CodeBrowser](https://github.com/Mayflower/PHP_CodeBrowser)
 * [PHP Depend](http://pdepend.org/)
 * [PHPLOC](https://github.com/sebastianbergmann/phploc)
 * [PHP Mess Detector](http://phpmd.org/)
