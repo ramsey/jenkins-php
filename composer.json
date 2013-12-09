@@ -14,6 +14,7 @@
         "bin-dir": "bin"
     },
     "require": {
+        "ext-xsl": "*",
         "mayflower/php-codebrowser": "~1.0",
         "pdepend/pdepend": "~1.1",
         "phpdocumentor/phpdocumentor": "~2.1",
@@ -22,7 +23,7 @@
         "phpunit/phpunit": "~3.7",
         "sebastian/phpcpd": "~2.0",
         "squizlabs/php_codesniffer": "~1.4",
-        "theseer/phpdox": "~0.5@dev"
+        "theseer/phpdox": "~0.6"
     },
     "minimum-stability": "dev",
     "prefer-stable" : true
