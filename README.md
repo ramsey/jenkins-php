@@ -14,6 +14,5 @@ This is a meta package for [Composer](http://getcomposer.org/) that provides the
 
 I recommend including this meta package in your `composer.json` require-dev section:
 
-    php composer.phar require --dev rhumsaa/jenkins-php=~2.0
+    php composer.phar require --dev ramsey/jenkins-php
 
-You'll need to set mimimum-stability to "dev." It sucks, but some of the packages included have dependencies on unstable packages, so this is necessary in order to install all the requirements.
