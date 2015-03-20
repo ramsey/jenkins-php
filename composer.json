@@ -17,14 +17,12 @@
         "ext-xsl": "*",
         "mayflower/php-codebrowser": "~1.1",
         "pdepend/pdepend": "~2.0",
-        "phpdocumentor/phpdocumentor": "~2.6",
-        "phploc/phploc": "~2.0",
-        "phpmd/phpmd": "~2.0",
-        "phpunit/phpunit": "~4.1",
+        "phpdocumentor/phpdocumentor": "~2.8",
+        "phploc/phploc": "~2.1",
+        "phpmd/phpmd": "~2.2",
+        "phpunit/phpunit": "~4.5",
         "sebastian/phpcpd": "~2.0",
-        "squizlabs/php_codesniffer": "~1.5",
-        "theseer/phpdox": "~0.6"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable" : true
+        "squizlabs/php_codesniffer": "~2.3",
+        "theseer/phpdox": "~0.7"
+    }
 }
