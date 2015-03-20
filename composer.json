@@ -1,5 +1,5 @@
 {
-    "name": "rhumsaa/jenkins-php",
+    "name": "ramsey/jenkins-php",
     "description": "A meta package for the PHP Quality Assurance Toolchain tools required by the Template for Jenkins Jobs for PHP Projects, http://jenkins-php.org/",
     "keywords": ["php", "qa", "tools", "jenkins"],
     "type": "metapackage",
